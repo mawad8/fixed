@@ -1,0 +1,65 @@
+/*
+    Theme Name: Lonely
+    Theme URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+*/
+/* ==== Google font ==== */
+
+.home-section {
+    padding-top: 120px;
+    padding-bottom: 110px;
+	display:block;
+    position:relative;
+    z-index:120;
+}
+
+.section-heading {
+	margin-bottom: 50px;
+}
+
+.section-heading h2 {
+	font-size: 40px;
+	margin-bottom: 10px;
+	line-height: 1em;
+}
+.section-heading i {
+	margin-bottom: 20px;
+}
+
+
+/* --- section bg var --- */
+
+
+/* ==========================
+Parallax
+============================= */
+
+#separator {	
+	background-image: url(../img/parallax-bg.jpg);
+}
+
+#separator .icon {
+	margin-bottom: 20px;
+}
+
+#separator span {
+	color: #fff;
+}
+
+#separator:after {	
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAEklEQVQImWNgYGD4z0AswK4SAFXuAf8EPy+xAAAAAElFTkSuQmCC);
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	top: 0;
+	opacity: 0.7;
+	z-index: -1;
+}
+
+/* ===========================
+--- Elements
+============================ */
+
